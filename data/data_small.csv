@@ -1,0 +1,1000 @@
+"term","grade","home_ownership","verification_status","loan_status","purpose"
+36 months,B,RENT,Verified,Fully Paid,credit_card
+60 months,C,RENT,Source Verified,Charged Off,car
+36 months,C,RENT,Not Verified,Fully Paid,small_business
+36 months,C,RENT,Source Verified,Fully Paid,other
+60 months,B,RENT,Source Verified,Current,other
+36 months,A,RENT,Source Verified,Fully Paid,wedding
+60 months,C,RENT,Not Verified,Current,debt_consolidation
+36 months,E,RENT,Source Verified,Fully Paid,car
+60 months,F,OWN,Source Verified,Charged Off,small_business
+60 months,B,RENT,Verified,Charged Off,other
+60 months,C,OWN,Not Verified,Fully Paid,debt_consolidation
+36 months,B,OWN,Source Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Source Verified,Charged Off,debt_consolidation
+36 months,B,RENT,Source Verified,Fully Paid,credit_card
+36 months,B,RENT,Source Verified,Charged Off,other
+36 months,D,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Not Verified,Fully Paid,home_improvement
+36 months,A,MORTGAGE,Not Verified,Fully Paid,major_purchase
+36 months,B,MORTGAGE,Verified,Fully Paid,medical
+36 months,A,RENT,Not Verified,Fully Paid,debt_consolidation
+60 months,C,RENT,Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Verified,Charged Off,debt_consolidation
+36 months,B,OWN,Source Verified,Fully Paid,credit_card
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Charged Off,major_purchase
+36 months,B,MORTGAGE,Verified,Fully Paid,credit_card
+36 months,C,RENT,Not Verified,Charged Off,debt_consolidation
+60 months,D,RENT,Not Verified,Charged Off,other
+36 months,B,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Source Verified,Fully Paid,credit_card
+36 months,A,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+36 months,A,MORTGAGE,Verified,Fully Paid,debt_consolidation
+60 months,C,RENT,Verified,Current,debt_consolidation
+36 months,A,RENT,Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Source Verified,Fully Paid,credit_card
+36 months,B,RENT,Not Verified,Fully Paid,credit_card
+36 months,B,RENT,Source Verified,Fully Paid,moving
+36 months,A,RENT,Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Source Verified,Fully Paid,debt_consolidation
+60 months,B,RENT,Verified,Current,debt_consolidation
+36 months,A,RENT,Source Verified,Fully Paid,other
+36 months,A,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,D,MORTGAGE,Not Verified,Fully Paid,other
+36 months,D,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,A,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,small_business
+36 months,A,MORTGAGE,Source Verified,Charged Off,debt_consolidation
+36 months,B,RENT,Verified,Fully Paid,other
+36 months,A,RENT,Not Verified,Fully Paid,credit_card
+36 months,A,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Not Verified,Charged Off,debt_consolidation
+36 months,B,RENT,Verified,Fully Paid,credit_card
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Not Verified,Charged Off,car
+36 months,B,RENT,Not Verified,Fully Paid,credit_card
+60 months,E,RENT,Verified,Charged Off,debt_consolidation
+60 months,E,RENT,Verified,Fully Paid,credit_card
+36 months,B,OWN,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,credit_card
+36 months,D,MORTGAGE,Verified,Fully Paid,debt_consolidation
+60 months,B,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+60 months,D,RENT,Verified,Current,small_business
+60 months,C,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,D,RENT,Not Verified,Fully Paid,debt_consolidation
+60 months,B,RENT,Verified,Charged Off,debt_consolidation
+36 months,B,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+60 months,D,RENT,Source Verified,Charged Off,debt_consolidation
+36 months,C,RENT,Source Verified,Fully Paid,debt_consolidation
+60 months,F,RENT,Source Verified,Charged Off,small_business
+36 months,C,OWN,Verified,Fully Paid,credit_card
+60 months,D,MORTGAGE,Verified,Fully Paid,credit_card
+36 months,D,RENT,Not Verified,Charged Off,debt_consolidation
+36 months,C,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,D,RENT,Not Verified,Fully Paid,credit_card
+36 months,A,OWN,Source Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,C,MORTGAGE,Verified,Fully Paid,debt_consolidation
+60 months,F,RENT,Verified,Fully Paid,debt_consolidation
+36 months,A,MORTGAGE,Not Verified,Fully Paid,small_business
+60 months,E,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+60 months,D,MORTGAGE,Verified,Fully Paid,home_improvement
+36 months,C,RENT,Source Verified,Fully Paid,credit_card
+36 months,B,RENT,Source Verified,Fully Paid,credit_card
+36 months,A,RENT,Source Verified,Fully Paid,major_purchase
+36 months,B,RENT,Source Verified,Fully Paid,credit_card
+36 months,B,RENT,Source Verified,Fully Paid,debt_consolidation
+60 months,D,RENT,Verified,Current,other
+60 months,B,MORTGAGE,Source Verified,Fully Paid,car
+36 months,D,RENT,Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Verified,Fully Paid,credit_card
+36 months,B,MORTGAGE,Not Verified,Fully Paid,credit_card
+60 months,E,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Verified,Fully Paid,medical
+36 months,B,OWN,Not Verified,Fully Paid,debt_consolidation
+60 months,F,RENT,Verified,Current,credit_card
+60 months,B,MORTGAGE,Verified,Fully Paid,debt_consolidation
+60 months,D,MORTGAGE,Not Verified,Charged Off,credit_card
+36 months,A,MORTGAGE,Verified,Fully Paid,car
+60 months,B,RENT,Source Verified,Current,major_purchase
+36 months,B,RENT,Not Verified,Charged Off,debt_consolidation
+60 months,D,RENT,Not Verified,Current,debt_consolidation
+36 months,A,OWN,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,credit_card
+36 months,A,MORTGAGE,Not Verified,Fully Paid,credit_card
+60 months,D,RENT,Verified,Charged Off,debt_consolidation
+36 months,B,RENT,Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Not Verified,Fully Paid,vacation
+36 months,A,MORTGAGE,Verified,Fully Paid,small_business
+36 months,A,OWN,Source Verified,Fully Paid,debt_consolidation
+60 months,F,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+36 months,D,RENT,Source Verified,Charged Off,credit_card
+36 months,B,MORTGAGE,Verified,Fully Paid,credit_card
+36 months,A,RENT,Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+60 months,C,MORTGAGE,Verified,Charged Off,credit_card
+36 months,B,RENT,Verified,Charged Off,debt_consolidation
+36 months,B,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Verified,Fully Paid,debt_consolidation
+60 months,E,RENT,Verified,Charged Off,debt_consolidation
+36 months,A,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Source Verified,Fully Paid,debt_consolidation
+60 months,E,RENT,Verified,Fully Paid,credit_card
+36 months,A,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Not Verified,Fully Paid,credit_card
+36 months,B,RENT,Source Verified,Fully Paid,credit_card
+36 months,C,MORTGAGE,Source Verified,Charged Off,home_improvement
+36 months,A,MORTGAGE,Not Verified,Fully Paid,medical
+36 months,C,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Source Verified,Fully Paid,credit_card
+36 months,A,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,credit_card
+36 months,A,RENT,Verified,Charged Off,credit_card
+60 months,B,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+36 months,A,MORTGAGE,Not Verified,Fully Paid,small_business
+36 months,E,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,other
+36 months,C,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,A,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Charged Off,debt_consolidation
+60 months,E,RENT,Verified,Fully Paid,debt_consolidation
+60 months,E,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Not Verified,Fully Paid,home_improvement
+60 months,D,OWN,Verified,Fully Paid,debt_consolidation
+60 months,C,RENT,Not Verified,Fully Paid,credit_card
+36 months,B,RENT,Not Verified,Charged Off,debt_consolidation
+36 months,D,MORTGAGE,Verified,Fully Paid,credit_card
+60 months,C,RENT,Verified,Charged Off,credit_card
+36 months,B,RENT,Not Verified,Fully Paid,major_purchase
+36 months,C,MORTGAGE,Not Verified,Charged Off,debt_consolidation
+36 months,C,RENT,Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Not Verified,Fully Paid,credit_card
+36 months,B,RENT,Source Verified,Fully Paid,credit_card
+36 months,B,RENT,Not Verified,Fully Paid,credit_card
+60 months,C,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,D,MORTGAGE,Source Verified,Fully Paid,house
+36 months,B,OWN,Not Verified,Fully Paid,debt_consolidation
+36 months,A,MORTGAGE,Not Verified,Fully Paid,credit_card
+36 months,C,RENT,Not Verified,Fully Paid,car
+36 months,B,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,C,MORTGAGE,Verified,Fully Paid,car
+60 months,B,OWN,Verified,Current,debt_consolidation
+36 months,A,OWN,Source Verified,Charged Off,debt_consolidation
+36 months,B,MORTGAGE,Source Verified,Fully Paid,credit_card
+36 months,B,RENT,Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Verified,Fully Paid,small_business
+36 months,C,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Verified,Fully Paid,credit_card
+36 months,C,RENT,Not Verified,Charged Off,small_business
+36 months,D,RENT,Not Verified,Charged Off,debt_consolidation
+60 months,F,RENT,Source Verified,Charged Off,debt_consolidation
+36 months,B,RENT,Verified,Fully Paid,debt_consolidation
+60 months,B,RENT,Not Verified,Charged Off,debt_consolidation
+36 months,B,RENT,Source Verified,Fully Paid,credit_card
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,D,RENT,Verified,Charged Off,debt_consolidation
+36 months,D,RENT,Source Verified,Charged Off,debt_consolidation
+60 months,C,MORTGAGE,Verified,Current,debt_consolidation
+36 months,B,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Source Verified,Fully Paid,credit_card
+60 months,C,MORTGAGE,Verified,Current,debt_consolidation
+36 months,B,RENT,Source Verified,Charged Off,debt_consolidation
+36 months,B,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,credit_card
+60 months,D,RENT,Not Verified,Current,major_purchase
+60 months,D,MORTGAGE,Verified,Fully Paid,home_improvement
+36 months,A,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,C,MORTGAGE,Not Verified,Charged Off,other
+36 months,B,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Verified,Fully Paid,medical
+36 months,B,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Not Verified,Charged Off,debt_consolidation
+36 months,D,RENT,Source Verified,Charged Off,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Not Verified,Fully Paid,credit_card
+36 months,C,MORTGAGE,Verified,Fully Paid,credit_card
+36 months,B,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+60 months,E,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Verified,Fully Paid,moving
+36 months,C,MORTGAGE,Source Verified,Fully Paid,credit_card
+36 months,C,RENT,Verified,Charged Off,debt_consolidation
+36 months,C,RENT,Verified,Fully Paid,credit_card
+36 months,A,RENT,Source Verified,Fully Paid,home_improvement
+36 months,B,MORTGAGE,Not Verified,Fully Paid,credit_card
+36 months,C,MORTGAGE,Source Verified,Fully Paid,credit_card
+60 months,D,MORTGAGE,Verified,Current,debt_consolidation
+60 months,D,RENT,Source Verified,Current,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Source Verified,Charged Off,moving
+36 months,C,OWN,Source Verified,Fully Paid,debt_consolidation
+36 months,C,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+60 months,G,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Source Verified,Charged Off,debt_consolidation
+60 months,D,MORTGAGE,Verified,Charged Off,home_improvement
+60 months,B,MORTGAGE,Verified,Charged Off,credit_card
+36 months,A,RENT,Source Verified,Fully Paid,major_purchase
+36 months,D,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Verified,Fully Paid,credit_card
+36 months,B,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Charged Off,credit_card
+36 months,A,RENT,Not Verified,Fully Paid,credit_card
+36 months,B,MORTGAGE,Not Verified,Fully Paid,other
+36 months,A,MORTGAGE,Not Verified,Fully Paid,vacation
+36 months,A,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Source Verified,Fully Paid,debt_consolidation
+60 months,F,RENT,Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Verified,Fully Paid,credit_card
+60 months,B,RENT,Source Verified,Current,vacation
+36 months,B,RENT,Verified,Fully Paid,credit_card
+36 months,B,MORTGAGE,Not Verified,Fully Paid,credit_card
+60 months,D,MORTGAGE,Verified,Current,debt_consolidation
+36 months,C,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Not Verified,Fully Paid,vacation
+36 months,B,RENT,Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+60 months,D,RENT,Source Verified,Fully Paid,small_business
+36 months,E,MORTGAGE,Not Verified,Fully Paid,vacation
+36 months,B,RENT,Not Verified,Charged Off,debt_consolidation
+36 months,A,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+36 months,A,OWN,Source Verified,Fully Paid,car
+36 months,B,RENT,Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Source Verified,Charged Off,credit_card
+36 months,A,RENT,Not Verified,Fully Paid,debt_consolidation
+60 months,B,MORTGAGE,Not Verified,Fully Paid,home_improvement
+60 months,B,OWN,Source Verified,Fully Paid,other
+36 months,A,MORTGAGE,Verified,Fully Paid,other
+36 months,B,OWN,Verified,Fully Paid,credit_card
+60 months,C,MORTGAGE,Source Verified,Current,debt_consolidation
+36 months,C,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,C,MORTGAGE,Not Verified,Fully Paid,credit_card
+36 months,A,MORTGAGE,Not Verified,Fully Paid,other
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Not Verified,Charged Off,other
+36 months,B,RENT,Source Verified,Fully Paid,debt_consolidation
+60 months,E,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Not Verified,Fully Paid,other
+60 months,C,RENT,Verified,Charged Off,small_business
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Not Verified,Fully Paid,medical
+60 months,B,RENT,Source Verified,Charged Off,debt_consolidation
+36 months,A,MORTGAGE,Not Verified,Fully Paid,home_improvement
+36 months,A,RENT,Not Verified,Fully Paid,small_business
+36 months,A,RENT,Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Verified,Fully Paid,credit_card
+36 months,A,OWN,Not Verified,Charged Off,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Source Verified,Fully Paid,credit_card
+36 months,A,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,A,MORTGAGE,Verified,Fully Paid,debt_consolidation
+60 months,C,MORTGAGE,Verified,Current,credit_card
+36 months,C,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Not Verified,Fully Paid,house
+36 months,A,OWN,Not Verified,Fully Paid,debt_consolidation
+36 months,D,RENT,Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,other
+36 months,A,MORTGAGE,Not Verified,Fully Paid,credit_card
+36 months,B,RENT,Not Verified,Fully Paid,credit_card
+36 months,B,RENT,Not Verified,Fully Paid,credit_card
+36 months,B,RENT,Not Verified,Fully Paid,credit_card
+36 months,D,RENT,Not Verified,Charged Off,credit_card
+60 months,B,RENT,Source Verified,Charged Off,small_business
+60 months,D,OWN,Not Verified,Charged Off,home_improvement
+36 months,B,OWN,Not Verified,Fully Paid,credit_card
+36 months,C,RENT,Not Verified,Fully Paid,debt_consolidation
+60 months,E,OWN,Verified,Charged Off,debt_consolidation
+36 months,D,RENT,Verified,Fully Paid,credit_card
+60 months,E,RENT,Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Source Verified,Fully Paid,credit_card
+36 months,C,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Verified,Fully Paid,debt_consolidation
+60 months,E,RENT,Verified,Charged Off,credit_card
+60 months,E,RENT,Verified,Charged Off,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,other
+36 months,A,RENT,Not Verified,Fully Paid,credit_card
+60 months,C,OWN,Verified,Charged Off,debt_consolidation
+60 months,D,MORTGAGE,Verified,Default,debt_consolidation
+36 months,D,RENT,Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Not Verified,Fully Paid,credit_card
+60 months,C,MORTGAGE,Verified,Current,credit_card
+36 months,B,RENT,Source Verified,Fully Paid,credit_card
+60 months,D,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Source Verified,Charged Off,debt_consolidation
+36 months,A,RENT,Not Verified,Fully Paid,other
+60 months,E,RENT,Verified,Current,debt_consolidation
+60 months,E,RENT,Source Verified,Current,credit_card
+36 months,B,RENT,Not Verified,Charged Off,debt_consolidation
+36 months,C,MORTGAGE,Verified,Fully Paid,other
+36 months,C,RENT,Verified,Fully Paid,debt_consolidation
+36 months,B,OWN,Verified,Fully Paid,debt_consolidation
+36 months,A,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+60 months,B,MORTGAGE,Verified,Current,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,credit_card
+60 months,D,RENT,Verified,Current,credit_card
+60 months,D,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+60 months,C,MORTGAGE,Verified,Fully Paid,home_improvement
+60 months,B,OWN,Source Verified,Current,home_improvement
+36 months,B,RENT,Not Verified,Charged Off,credit_card
+36 months,A,MORTGAGE,Verified,Charged Off,car
+36 months,B,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Not Verified,Fully Paid,credit_card
+36 months,C,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Source Verified,Charged Off,debt_consolidation
+36 months,D,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+60 months,E,MORTGAGE,Source Verified,Current,home_improvement
+36 months,B,RENT,Source Verified,Charged Off,debt_consolidation
+36 months,C,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,A,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+60 months,D,OWN,Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,A,OWN,Not Verified,Fully Paid,major_purchase
+36 months,C,MORTGAGE,Verified,Fully Paid,credit_card
+36 months,A,RENT,Not Verified,Charged Off,debt_consolidation
+60 months,C,MORTGAGE,Verified,Fully Paid,credit_card
+36 months,A,MORTGAGE,Not Verified,Fully Paid,other
+36 months,C,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Not Verified,Fully Paid,debt_consolidation
+60 months,E,RENT,Source Verified,Current,other
+60 months,E,RENT,Verified,Charged Off,credit_card
+36 months,C,OWN,Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Verified,Charged Off,debt_consolidation
+36 months,B,RENT,Verified,Fully Paid,debt_consolidation
+60 months,C,RENT,Not Verified,Current,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,credit_card
+36 months,A,OWN,Not Verified,Fully Paid,debt_consolidation
+36 months,D,RENT,Not Verified,Fully Paid,credit_card
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,credit_card
+36 months,B,RENT,Not Verified,Fully Paid,credit_card
+60 months,E,MORTGAGE,Verified,Current,credit_card
+36 months,A,RENT,Source Verified,Charged Off,debt_consolidation
+36 months,A,OWN,Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Not Verified,Fully Paid,credit_card
+36 months,A,MORTGAGE,Verified,Fully Paid,credit_card
+60 months,B,OWN,Verified,Charged Off,debt_consolidation
+36 months,B,RENT,Source Verified,Charged Off,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,credit_card
+36 months,B,RENT,Verified,Fully Paid,credit_card
+36 months,A,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Verified,Fully Paid,credit_card
+60 months,B,MORTGAGE,Verified,Fully Paid,home_improvement
+60 months,A,RENT,Verified,Charged Off,debt_consolidation
+60 months,B,MORTGAGE,Not Verified,Current,car
+36 months,D,RENT,Not Verified,Fully Paid,credit_card
+60 months,D,MORTGAGE,Source Verified,Current,debt_consolidation
+36 months,A,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Source Verified,Fully Paid,home_improvement
+36 months,B,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,D,RENT,Not Verified,Fully Paid,debt_consolidation
+60 months,C,MORTGAGE,Source Verified,Fully Paid,major_purchase
+36 months,C,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+36 months,A,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,C,MORTGAGE,Not Verified,Fully Paid,credit_card
+36 months,C,RENT,Not Verified,Fully Paid,credit_card
+60 months,F,MORTGAGE,Source Verified,Current,home_improvement
+36 months,C,MORTGAGE,Source Verified,Fully Paid,credit_card
+36 months,C,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Not Verified,Fully Paid,credit_card
+36 months,D,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+60 months,F,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Not Verified,Fully Paid,credit_card
+36 months,C,OWN,Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Verified,Fully Paid,debt_consolidation
+36 months,E,RENT,Source Verified,Charged Off,other
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+60 months,C,RENT,Verified,Charged Off,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,credit_card
+36 months,C,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+60 months,B,MORTGAGE,Verified,Current,debt_consolidation
+36 months,A,MORTGAGE,Not Verified,Fully Paid,home_improvement
+36 months,B,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,A,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Verified,Fully Paid,credit_card
+36 months,C,RENT,Not Verified,Charged Off,major_purchase
+36 months,A,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Source Verified,Charged Off,debt_consolidation
+60 months,E,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,C,MORTGAGE,Not Verified,Fully Paid,other
+36 months,A,MORTGAGE,Not Verified,Fully Paid,major_purchase
+36 months,B,MORTGAGE,Source Verified,Fully Paid,home_improvement
+60 months,D,MORTGAGE,Verified,Fully Paid,debt_consolidation
+60 months,C,MORTGAGE,Source Verified,Charged Off,debt_consolidation
+60 months,E,RENT,Verified,Current,debt_consolidation
+36 months,C,RENT,Verified,Fully Paid,debt_consolidation
+60 months,B,RENT,Source Verified,Charged Off,debt_consolidation
+36 months,A,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+60 months,D,RENT,Verified,Charged Off,debt_consolidation
+60 months,D,RENT,Not Verified,Current,debt_consolidation
+36 months,A,RENT,Verified,Fully Paid,credit_card
+36 months,B,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,A,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Verified,Fully Paid,credit_card
+36 months,A,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+36 months,A,MORTGAGE,Not Verified,Fully Paid,other
+36 months,A,RENT,Not Verified,Fully Paid,credit_card
+36 months,A,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,A,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,E,MORTGAGE,Source Verified,Fully Paid,credit_card
+36 months,A,MORTGAGE,Verified,Fully Paid,debt_consolidation
+60 months,D,RENT,Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Not Verified,Fully Paid,credit_card
+36 months,D,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,B,OWN,Not Verified,Fully Paid,credit_card
+36 months,B,MORTGAGE,Not Verified,Fully Paid,medical
+60 months,C,MORTGAGE,Verified,Current,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Not Verified,Fully Paid,credit_card
+36 months,B,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+36 months,A,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+36 months,D,RENT,Verified,Charged Off,debt_consolidation
+36 months,B,OWN,Verified,Fully Paid,debt_consolidation
+36 months,A,MORTGAGE,Not Verified,Fully Paid,credit_card
+36 months,A,RENT,Verified,Fully Paid,other
+60 months,D,RENT,Source Verified,Charged Off,debt_consolidation
+36 months,A,MORTGAGE,Source Verified,Fully Paid,home_improvement
+36 months,B,MORTGAGE,Not Verified,Charged Off,other
+36 months,B,MORTGAGE,Not Verified,Fully Paid,car
+36 months,D,RENT,Verified,Charged Off,small_business
+60 months,E,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Source Verified,Fully Paid,credit_card
+60 months,D,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Source Verified,Fully Paid,credit_card
+36 months,A,RENT,Verified,Fully Paid,home_improvement
+60 months,C,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Not Verified,Fully Paid,debt_consolidation
+60 months,B,RENT,Verified,Fully Paid,major_purchase
+60 months,D,MORTGAGE,Verified,Fully Paid,credit_card
+36 months,D,RENT,Not Verified,Charged Off,debt_consolidation
+36 months,D,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Source Verified,Fully Paid,major_purchase
+60 months,D,RENT,Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Source Verified,Charged Off,debt_consolidation
+36 months,B,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,A,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,C,OWN,Not Verified,Charged Off,debt_consolidation
+60 months,B,RENT,Verified,Current,other
+60 months,B,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+36 months,A,MORTGAGE,Verified,Fully Paid,debt_consolidation
+60 months,E,RENT,Verified,Current,credit_card
+60 months,A,RENT,Not Verified,Charged Off,debt_consolidation
+36 months,C,RENT,Not Verified,Fully Paid,debt_consolidation
+60 months,E,RENT,Verified,Fully Paid,credit_card
+60 months,C,MORTGAGE,Verified,Current,debt_consolidation
+36 months,A,MORTGAGE,Verified,Fully Paid,major_purchase
+36 months,C,OWN,Not Verified,Fully Paid,major_purchase
+60 months,B,MORTGAGE,Verified,Current,debt_consolidation
+60 months,E,OWN,Verified,Charged Off,debt_consolidation
+36 months,A,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Source Verified,Fully Paid,debt_consolidation
+60 months,B,OWN,Verified,Fully Paid,debt_consolidation
+36 months,C,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Not Verified,Fully Paid,credit_card
+36 months,B,RENT,Not Verified,Fully Paid,other
+36 months,D,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Verified,Fully Paid,debt_consolidation
+60 months,C,RENT,Verified,Charged Off,credit_card
+60 months,C,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Verified,Fully Paid,credit_card
+60 months,C,RENT,Verified,Fully Paid,credit_card
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+60 months,B,MORTGAGE,Verified,Current,debt_consolidation
+36 months,D,RENT,Verified,Fully Paid,credit_card
+36 months,B,RENT,Verified,Charged Off,other
+36 months,C,OWN,Source Verified,Fully Paid,debt_consolidation
+60 months,D,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+60 months,C,RENT,Verified,Fully Paid,credit_card
+60 months,D,MORTGAGE,Verified,Fully Paid,home_improvement
+36 months,C,RENT,Source Verified,Fully Paid,moving
+60 months,E,OWN,Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Verified,Charged Off,debt_consolidation
+60 months,D,RENT,Verified,Fully Paid,credit_card
+36 months,A,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Charged Off,home_improvement
+36 months,B,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+36 months,A,MORTGAGE,Source Verified,Fully Paid,home_improvement
+36 months,C,OWN,Source Verified,Fully Paid,credit_card
+36 months,B,RENT,Verified,Fully Paid,credit_card
+60 months,E,MORTGAGE,Verified,Fully Paid,credit_card
+60 months,E,RENT,Source Verified,Charged Off,house
+36 months,A,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,A,MORTGAGE,Not Verified,Charged Off,home_improvement
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+60 months,B,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Verified,Charged Off,debt_consolidation
+36 months,B,MORTGAGE,Verified,Fully Paid,credit_card
+60 months,E,RENT,Source Verified,Charged Off,debt_consolidation
+60 months,G,RENT,Source Verified,Current,debt_consolidation
+36 months,D,RENT,Source Verified,Charged Off,debt_consolidation
+60 months,F,OWN,Verified,Fully Paid,debt_consolidation
+36 months,C,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,D,RENT,Source Verified,Fully Paid,credit_card
+60 months,C,RENT,Verified,Fully Paid,debt_consolidation
+60 months,D,RENT,Verified,Charged Off,debt_consolidation
+36 months,B,RENT,Not Verified,Charged Off,car
+36 months,B,RENT,Not Verified,Fully Paid,other
+36 months,A,RENT,Source Verified,Fully Paid,house
+60 months,D,RENT,Verified,Fully Paid,credit_card
+36 months,D,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Not Verified,Fully Paid,credit_card
+36 months,B,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+36 months,A,MORTGAGE,Source Verified,Fully Paid,other
+36 months,A,MORTGAGE,Not Verified,Fully Paid,other
+36 months,B,RENT,Not Verified,Fully Paid,car
+36 months,C,RENT,Source Verified,Fully Paid,vacation
+36 months,C,RENT,Source Verified,Charged Off,credit_card
+36 months,A,MORTGAGE,Verified,Charged Off,home_improvement
+36 months,B,RENT,Not Verified,Fully Paid,wedding
+36 months,B,MORTGAGE,Not Verified,Fully Paid,renewable_energy
+36 months,A,MORTGAGE,Not Verified,Charged Off,other
+36 months,A,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Verified,Fully Paid,debt_consolidation
+60 months,E,RENT,Verified,Current,debt_consolidation
+36 months,B,MORTGAGE,Source Verified,Fully Paid,other
+60 months,C,RENT,Not Verified,Current,debt_consolidation
+36 months,D,MORTGAGE,Verified,Charged Off,debt_consolidation
+60 months,B,MORTGAGE,Verified,Charged Off,debt_consolidation
+36 months,A,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,E,MORTGAGE,Verified,Fully Paid,credit_card
+36 months,B,RENT,Not Verified,Fully Paid,credit_card
+60 months,D,MORTGAGE,Verified,Charged Off,credit_card
+36 months,B,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,other
+36 months,C,RENT,Verified,Fully Paid,credit_card
+36 months,A,MORTGAGE,Not Verified,Fully Paid,credit_card
+60 months,B,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+36 months,A,MORTGAGE,Not Verified,Charged Off,credit_card
+36 months,D,MORTGAGE,Source Verified,Charged Off,medical
+36 months,D,OWN,Verified,Fully Paid,debt_consolidation
+36 months,B,OWN,Verified,Charged Off,debt_consolidation
+36 months,B,RENT,Source Verified,Fully Paid,credit_card
+36 months,D,RENT,Source Verified,Fully Paid,credit_card
+36 months,B,RENT,Verified,Fully Paid,vacation
+36 months,B,MORTGAGE,Source Verified,Fully Paid,medical
+36 months,D,MORTGAGE,Not Verified,Charged Off,other
+36 months,D,RENT,Source Verified,Charged Off,other
+36 months,C,OWN,Source Verified,Fully Paid,other
+60 months,E,MORTGAGE,Verified,Current,debt_consolidation
+36 months,B,OWN,Not Verified,Fully Paid,credit_card
+36 months,D,MORTGAGE,Verified,Fully Paid,debt_consolidation
+60 months,F,RENT,Verified,Charged Off,credit_card
+36 months,B,MORTGAGE,Not Verified,Fully Paid,major_purchase
+36 months,B,RENT,Not Verified,Fully Paid,other
+36 months,E,RENT,Source Verified,Charged Off,debt_consolidation
+60 months,E,RENT,Verified,Fully Paid,credit_card
+36 months,A,RENT,Not Verified,Charged Off,credit_card
+36 months,B,RENT,Not Verified,Fully Paid,car
+36 months,B,MORTGAGE,Not Verified,Charged Off,medical
+60 months,G,RENT,Not Verified,Charged Off,other
+36 months,B,RENT,Verified,Fully Paid,debt_consolidation
+36 months,C,MORTGAGE,Verified,Fully Paid,home_improvement
+36 months,B,RENT,Verified,Fully Paid,debt_consolidation
+60 months,E,MORTGAGE,Verified,Current,debt_consolidation
+60 months,D,MORTGAGE,Source Verified,Late (31-120 days),debt_consolidation
+60 months,E,MORTGAGE,Verified,Fully Paid,credit_card
+36 months,C,MORTGAGE,Source Verified,Fully Paid,credit_card
+36 months,A,RENT,Not Verified,Fully Paid,credit_card
+36 months,A,MORTGAGE,Verified,Fully Paid,credit_card
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+60 months,E,RENT,Verified,Fully Paid,credit_card
+36 months,B,RENT,Not Verified,Fully Paid,other
+60 months,D,RENT,Verified,Current,debt_consolidation
+36 months,C,RENT,Not Verified,Charged Off,debt_consolidation
+36 months,D,MORTGAGE,Not Verified,Fully Paid,credit_card
+60 months,G,RENT,Not Verified,Charged Off,credit_card
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Verified,Charged Off,debt_consolidation
+60 months,D,RENT,Verified,Current,debt_consolidation
+36 months,B,RENT,Source Verified,Fully Paid,credit_card
+36 months,B,RENT,Verified,Charged Off,debt_consolidation
+60 months,D,RENT,Verified,Current,credit_card
+60 months,C,RENT,Verified,Charged Off,other
+36 months,A,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Verified,Fully Paid,debt_consolidation
+60 months,E,RENT,Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Not Verified,Fully Paid,house
+60 months,E,MORTGAGE,Verified,Fully Paid,debt_consolidation
+60 months,D,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+60 months,B,RENT,Verified,Charged Off,debt_consolidation
+36 months,B,MORTGAGE,Not Verified,Fully Paid,credit_card
+36 months,B,MORTGAGE,Verified,Fully Paid,other
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+60 months,D,RENT,Verified,Current,other
+60 months,B,RENT,Verified,Charged Off,debt_consolidation
+36 months,C,RENT,Source Verified,Fully Paid,moving
+36 months,A,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,A,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Verified,Fully Paid,credit_card
+60 months,E,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,C,MORTGAGE,Not Verified,Charged Off,debt_consolidation
+36 months,B,RENT,Verified,Fully Paid,credit_card
+36 months,C,RENT,Not Verified,Fully Paid,debt_consolidation
+60 months,C,MORTGAGE,Source Verified,Current,debt_consolidation
+36 months,B,RENT,Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,credit_card
+36 months,A,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Not Verified,Charged Off,debt_consolidation
+36 months,D,RENT,Not Verified,Fully Paid,credit_card
+60 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Not Verified,Fully Paid,debt_consolidation
+60 months,B,RENT,Not Verified,Current,debt_consolidation
+60 months,E,RENT,Verified,Fully Paid,credit_card
+60 months,C,RENT,Verified,Fully Paid,small_business
+36 months,D,MORTGAGE,Source Verified,Charged Off,home_improvement
+60 months,D,OWN,Source Verified,Current,small_business
+36 months,B,RENT,Source Verified,Fully Paid,credit_card
+36 months,A,RENT,Verified,Fully Paid,debt_consolidation
+36 months,D,MORTGAGE,Source Verified,Fully Paid,other
+36 months,B,MORTGAGE,Not Verified,Fully Paid,major_purchase
+36 months,A,RENT,Not Verified,Fully Paid,medical
+36 months,B,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+36 months,C,OWN,Source Verified,Fully Paid,credit_card
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+60 months,E,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,credit_card
+36 months,A,RENT,Source Verified,Fully Paid,wedding
+60 months,D,RENT,Verified,Fully Paid,debt_consolidation
+60 months,E,RENT,Verified,Fully Paid,debt_consolidation
+60 months,C,RENT,Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Not Verified,Fully Paid,vacation
+36 months,A,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Not Verified,Fully Paid,credit_card
+36 months,A,RENT,Verified,Fully Paid,debt_consolidation
+36 months,D,RENT,Verified,Fully Paid,debt_consolidation
+60 months,B,RENT,Source Verified,Current,small_business
+36 months,A,OWN,Not Verified,Fully Paid,car
+36 months,B,RENT,Not Verified,Fully Paid,car
+36 months,A,RENT,Not Verified,Fully Paid,debt_consolidation
+60 months,B,RENT,Verified,Current,debt_consolidation
+36 months,B,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Source Verified,Fully Paid,debt_consolidation
+60 months,E,RENT,Verified,Fully Paid,credit_card
+36 months,B,RENT,Source Verified,Fully Paid,debt_consolidation
+60 months,E,RENT,Not Verified,Charged Off,wedding
+36 months,A,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,D,RENT,Verified,Fully Paid,credit_card
+36 months,B,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Source Verified,Charged Off,car
+36 months,B,RENT,Not Verified,Charged Off,credit_card
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+60 months,C,RENT,Verified,Fully Paid,credit_card
+36 months,B,RENT,Verified,Fully Paid,car
+36 months,C,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,B,OWN,Not Verified,Charged Off,debt_consolidation
+36 months,B,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+36 months,C,MORTGAGE,Verified,Charged Off,credit_card
+36 months,D,RENT,Source Verified,Fully Paid,debt_consolidation
+60 months,B,RENT,Verified,Current,debt_consolidation
+60 months,C,RENT,Source Verified,Fully Paid,debt_consolidation
+60 months,C,MORTGAGE,Verified,Fully Paid,credit_card
+36 months,B,OWN,Source Verified,Fully Paid,debt_consolidation
+60 months,E,OWN,Verified,Current,debt_consolidation
+36 months,C,RENT,Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Source Verified,Fully Paid,other
+36 months,A,MORTGAGE,Source Verified,Fully Paid,credit_card
+36 months,B,OWN,Source Verified,Fully Paid,other
+60 months,C,MORTGAGE,Verified,Current,debt_consolidation
+60 months,D,RENT,Source Verified,Current,small_business
+60 months,E,MORTGAGE,Verified,Current,small_business
+36 months,C,MORTGAGE,Source Verified,Fully Paid,home_improvement
+36 months,A,RENT,Not Verified,Fully Paid,debt_consolidation
+60 months,E,RENT,Verified,Current,debt_consolidation
+36 months,C,MORTGAGE,Source Verified,Fully Paid,credit_card
+36 months,C,RENT,Not Verified,Fully Paid,credit_card
+36 months,A,RENT,Not Verified,Fully Paid,credit_card
+36 months,D,RENT,Source Verified,Fully Paid,small_business
+36 months,A,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Source Verified,Fully Paid,small_business
+36 months,A,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Not Verified,Fully Paid,other
+36 months,A,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Not Verified,Charged Off,credit_card
+36 months,C,MORTGAGE,Source Verified,Fully Paid,vacation
+36 months,D,RENT,Verified,Fully Paid,credit_card
+36 months,D,RENT,Source Verified,Charged Off,wedding
+36 months,B,RENT,Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Charged Off,debt_consolidation
+36 months,D,RENT,Source Verified,Fully Paid,credit_card
+60 months,G,RENT,Verified,Fully Paid,credit_card
+36 months,B,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+60 months,C,RENT,Source Verified,Fully Paid,credit_card
+36 months,B,RENT,Not Verified,Fully Paid,credit_card
+36 months,B,MORTGAGE,Not Verified,Charged Off,debt_consolidation
+36 months,A,RENT,Source Verified,Fully Paid,major_purchase
+36 months,A,MORTGAGE,Verified,Fully Paid,credit_card
+60 months,B,RENT,Not Verified,Fully Paid,credit_card
+36 months,B,RENT,Verified,Fully Paid,debt_consolidation
+36 months,A,MORTGAGE,Not Verified,Fully Paid,small_business
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Not Verified,Fully Paid,credit_card
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+60 months,D,RENT,Verified,Late (31-120 days),small_business
+36 months,E,RENT,Verified,Fully Paid,small_business
+36 months,C,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Verified,Charged Off,debt_consolidation
+60 months,E,MORTGAGE,Verified,Fully Paid,wedding
+60 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+60 months,B,RENT,Verified,Fully Paid,credit_card
+36 months,C,OWN,Source Verified,Charged Off,debt_consolidation
+60 months,D,OWN,Verified,Fully Paid,debt_consolidation
+36 months,D,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,C,MORTGAGE,Verified,Fully Paid,credit_card
+60 months,B,RENT,Not Verified,Current,debt_consolidation
+36 months,C,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+60 months,C,MORTGAGE,Verified,Fully Paid,small_business
+36 months,B,RENT,Not Verified,Fully Paid,other
+36 months,A,RENT,Not Verified,Fully Paid,credit_card
+36 months,C,MORTGAGE,Source Verified,Fully Paid,other
+60 months,B,RENT,Not Verified,Current,debt_consolidation
+60 months,F,MORTGAGE,Verified,Charged Off,debt_consolidation
+60 months,D,RENT,Not Verified,Current,credit_card
+36 months,A,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,D,RENT,Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Verified,Fully Paid,credit_card
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+60 months,D,RENT,Not Verified,Charged Off,debt_consolidation
+36 months,A,RENT,Not Verified,Fully Paid,other
+36 months,B,RENT,Verified,Fully Paid,debt_consolidation
+36 months,C,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+36 months,B,OWN,Not Verified,Fully Paid,credit_card
+36 months,B,RENT,Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,C,MORTGAGE,Verified,Fully Paid,credit_card
+36 months,A,RENT,Source Verified,Charged Off,debt_consolidation
+36 months,A,MORTGAGE,Verified,Fully Paid,small_business
+60 months,E,RENT,Verified,Fully Paid,credit_card
+36 months,E,RENT,Not Verified,Charged Off,debt_consolidation
+36 months,A,MORTGAGE,Not Verified,Charged Off,debt_consolidation
+60 months,D,RENT,Not Verified,Current,wedding
+36 months,C,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Source Verified,Fully Paid,car
+60 months,C,RENT,Not Verified,Current,other
+36 months,B,RENT,Not Verified,Fully Paid,credit_card
+36 months,A,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+60 months,D,MORTGAGE,Verified,Fully Paid,credit_card
+36 months,A,RENT,Verified,Fully Paid,credit_card
+36 months,C,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Verified,Charged Off,debt_consolidation
+60 months,B,MORTGAGE,Not Verified,Charged Off,debt_consolidation
+60 months,B,MORTGAGE,Source Verified,Current,home_improvement
+36 months,C,RENT,Not Verified,Fully Paid,small_business
+36 months,C,RENT,Verified,Charged Off,credit_card
+36 months,D,RENT,Source Verified,Fully Paid,debt_consolidation
+60 months,C,RENT,Source Verified,Current,medical
+36 months,A,MORTGAGE,Not Verified,Fully Paid,credit_card
+60 months,C,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Source Verified,Fully Paid,other
+60 months,C,MORTGAGE,Verified,Charged Off,debt_consolidation
+60 months,D,RENT,Not Verified,Current,debt_consolidation
+60 months,C,MORTGAGE,Verified,Fully Paid,house
+36 months,B,RENT,Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Not Verified,Fully Paid,credit_card
+36 months,D,RENT,Verified,Fully Paid,debt_consolidation
+60 months,C,OWN,Not Verified,Current,other
+36 months,B,MORTGAGE,Not Verified,Fully Paid,wedding
+60 months,D,MORTGAGE,Not Verified,Current,wedding
+36 months,A,OWN,Not Verified,Fully Paid,credit_card
+36 months,B,RENT,Not Verified,Charged Off,small_business
+36 months,C,RENT,Source Verified,Fully Paid,debt_consolidation
+60 months,D,RENT,Source Verified,Charged Off,credit_card
+36 months,B,OWN,Not Verified,Fully Paid,credit_card
+36 months,B,MORTGAGE,Verified,Fully Paid,car
+36 months,A,OWN,Source Verified,Fully Paid,debt_consolidation
+36 months,D,RENT,Not Verified,Fully Paid,debt_consolidation
+60 months,B,RENT,Source Verified,Current,debt_consolidation
+60 months,C,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+60 months,D,RENT,Verified,Fully Paid,credit_card
+36 months,D,RENT,Source Verified,Fully Paid,credit_card
+60 months,C,RENT,Source Verified,Charged Off,credit_card
+36 months,C,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Source Verified,Fully Paid,credit_card
+36 months,A,RENT,Source Verified,Fully Paid,debt_consolidation
+60 months,E,MORTGAGE,Source Verified,Charged Off,debt_consolidation
+60 months,F,RENT,Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Verified,Fully Paid,debt_consolidation
+60 months,E,RENT,Source Verified,Fully Paid,debt_consolidation
+60 months,E,MORTGAGE,Verified,Charged Off,credit_card
+60 months,C,MORTGAGE,Verified,Current,credit_card
+60 months,D,RENT,Not Verified,Charged Off,debt_consolidation
+36 months,B,RENT,Source Verified,Fully Paid,debt_consolidation
+60 months,E,MORTGAGE,Verified,Current,debt_consolidation
+36 months,C,MORTGAGE,Not Verified,Fully Paid,other
+36 months,B,RENT,Source Verified,Fully Paid,credit_card
+60 months,E,RENT,Not Verified,Charged Off,credit_card
+36 months,A,RENT,Verified,Fully Paid,small_business
+36 months,C,OWN,Not Verified,Charged Off,house
+60 months,C,RENT,Source Verified,Current,debt_consolidation
+36 months,A,RENT,Source Verified,Fully Paid,credit_card
+36 months,A,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Source Verified,Fully Paid,credit_card
+36 months,B,RENT,Verified,Fully Paid,credit_card
+60 months,B,MORTGAGE,Source Verified,Current,wedding
+36 months,D,MORTGAGE,Source Verified,Fully Paid,credit_card
+36 months,B,RENT,Source Verified,Fully Paid,credit_card
+36 months,B,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,D,RENT,Source Verified,Fully Paid,major_purchase
+60 months,E,RENT,Source Verified,Current,debt_consolidation
+36 months,C,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Not Verified,Fully Paid,small_business
+60 months,A,MORTGAGE,Verified,Current,home_improvement
+60 months,B,MORTGAGE,Verified,Fully Paid,debt_consolidation
+60 months,A,MORTGAGE,Not Verified,Current,debt_consolidation
+36 months,A,RENT,Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Source Verified,Fully Paid,credit_card
+36 months,B,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,D,RENT,Verified,Fully Paid,debt_consolidation
+60 months,E,MORTGAGE,Verified,Current,home_improvement
+36 months,B,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,A,MORTGAGE,Not Verified,Fully Paid,credit_card
+36 months,B,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,D,RENT,Source Verified,Fully Paid,credit_card
+36 months,A,OWN,Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Charged Off,vacation
+36 months,A,RENT,Source Verified,Fully Paid,debt_consolidation
+60 months,F,RENT,Verified,Current,debt_consolidation
+36 months,A,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,B,OWN,Not Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Source Verified,Fully Paid,debt_consolidation
+60 months,D,OWN,Not Verified,Fully Paid,other
+36 months,A,MORTGAGE,Source Verified,Charged Off,small_business
+60 months,C,RENT,Verified,Fully Paid,debt_consolidation
+36 months,A,MORTGAGE,Not Verified,Fully Paid,small_business
+60 months,B,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Verified,Fully Paid,debt_consolidation
+60 months,F,RENT,Source Verified,Charged Off,debt_consolidation
+36 months,C,OWN,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Source Verified,Fully Paid,credit_card
+60 months,E,RENT,Verified,Current,debt_consolidation
+36 months,D,RENT,Verified,Charged Off,debt_consolidation
+60 months,C,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,A,MORTGAGE,Source Verified,Fully Paid,credit_card
+36 months,D,RENT,Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+60 months,C,OWN,Verified,Fully Paid,debt_consolidation
+36 months,A,MORTGAGE,Verified,Fully Paid,other
+36 months,C,MORTGAGE,Verified,Fully Paid,other
+36 months,B,RENT,Verified,Fully Paid,debt_consolidation
+36 months,D,RENT,Source Verified,Fully Paid,small_business
+36 months,B,MORTGAGE,Source Verified,Fully Paid,credit_card
+60 months,B,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+36 months,A,RENT,Not Verified,Fully Paid,credit_card
+60 months,E,RENT,Source Verified,Current,debt_consolidation
+36 months,A,OWN,Source Verified,Fully Paid,other
+60 months,C,MORTGAGE,Verified,Current,debt_consolidation
+36 months,B,RENT,Source Verified,Charged Off,debt_consolidation
+36 months,B,RENT,Verified,Charged Off,debt_consolidation
+36 months,B,RENT,Source Verified,Charged Off,credit_card
+36 months,A,MORTGAGE,Not Verified,Fully Paid,credit_card
+36 months,B,RENT,Source Verified,Fully Paid,credit_card
+36 months,C,RENT,Not Verified,Charged Off,debt_consolidation
+36 months,C,RENT,Source Verified,Fully Paid,credit_card
+36 months,F,MORTGAGE,Verified,Charged Off,debt_consolidation
+36 months,A,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,credit_card
+60 months,F,RENT,Verified,Current,debt_consolidation
+36 months,D,RENT,Verified,Fully Paid,credit_card
+36 months,D,RENT,Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Source Verified,Fully Paid,credit_card
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,A,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Source Verified,Fully Paid,debt_consolidation
+60 months,F,MORTGAGE,Source Verified,Charged Off,debt_consolidation
+36 months,B,RENT,Source Verified,Fully Paid,credit_card
+36 months,E,RENT,Verified,Fully Paid,credit_card
+36 months,A,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+60 months,C,RENT,Not Verified,Charged Off,debt_consolidation
+60 months,A,OWN,Verified,Current,credit_card
+60 months,D,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Verified,Fully Paid,credit_card
+36 months,A,RENT,Verified,Fully Paid,debt_consolidation
+60 months,D,MORTGAGE,Verified,Charged Off,home_improvement
+36 months,A,MORTGAGE,Verified,Fully Paid,home_improvement
+36 months,B,RENT,Source Verified,Charged Off,credit_card
+36 months,C,RENT,Source Verified,Fully Paid,credit_card
+60 months,C,RENT,Verified,Current,credit_card
+36 months,C,MORTGAGE,Source Verified,Fully Paid,home_improvement
+60 months,D,MORTGAGE,Source Verified,Fully Paid,credit_card
+36 months,C,MORTGAGE,Verified,Fully Paid,credit_card
+60 months,C,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Verified,Fully Paid,credit_card
+36 months,C,RENT,Not Verified,Fully Paid,credit_card
+60 months,D,RENT,Verified,Charged Off,credit_card
+36 months,B,MORTGAGE,Verified,Fully Paid,credit_card
+36 months,C,RENT,Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Not Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Not Verified,Charged Off,debt_consolidation
+36 months,B,RENT,Verified,Fully Paid,debt_consolidation
+60 months,D,MORTGAGE,Verified,Current,debt_consolidation
+36 months,A,MORTGAGE,Verified,Fully Paid,credit_card
+60 months,E,MORTGAGE,Verified,Charged Off,small_business
+36 months,B,RENT,Not Verified,Fully Paid,debt_consolidation
+60 months,C,MORTGAGE,Source Verified,Fully Paid,debt_consolidation
+36 months,A,MORTGAGE,Not Verified,Fully Paid,other
+60 months,B,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,D,OWN,Not Verified,Fully Paid,car
+36 months,D,RENT,Not Verified,Fully Paid,debt_consolidation
+60 months,D,RENT,Source Verified,Charged Off,debt_consolidation
+36 months,A,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Verified,Fully Paid,credit_card
+60 months,F,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,A,MORTGAGE,Verified,Fully Paid,debt_consolidation
+36 months,C,RENT,Verified,Fully Paid,credit_card
+36 months,C,MORTGAGE,Not Verified,Charged Off,home_improvement
+60 months,F,MORTGAGE,Verified,Current,debt_consolidation
+60 months,D,RENT,Source Verified,Current,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,credit_card
+36 months,C,RENT,Not Verified,Charged Off,debt_consolidation
+36 months,B,RENT,Not Verified,Fully Paid,credit_card
+36 months,A,MORTGAGE,Verified,Fully Paid,car
+36 months,C,RENT,Source Verified,Fully Paid,debt_consolidation
+36 months,B,RENT,Verified,Charged Off,credit_card
+36 months,B,RENT,Not Verified,Fully Paid,home_improvement
+36 months,B,RENT,Verified,Fully Paid,credit_card
+36 months,A,RENT,Verified,Fully Paid,debt_consolidation
+60 months,B,RENT,Verified,Charged Off,debt_consolidation
+36 months,B,MORTGAGE,Not Verified,Fully Paid,other
+36 months,D,RENT,Verified,Fully Paid,credit_card
+36 months,B,RENT,Not Verified,Fully Paid,credit_card
+36 months,B,RENT,Verified,Fully Paid,debt_consolidation
+60 months,E,OWN,Verified,Charged Off,credit_card
+60 months,C,RENT,Verified,Fully Paid,debt_consolidation
+60 months,E,MORTGAGE,Verified,Fully Paid,credit_card
+60 months,F,RENT,Verified,Fully Paid,debt_consolidation
+36 months,D,OWN,Verified,Fully Paid,debt_consolidation
+60 months,C,RENT,Verified,Fully Paid,debt_consolidation
+36 months,B,MORTGAGE,Source Verified,Fully Paid,credit_card
+36 months,A,RENT,Not Verified,Fully Paid,debt_consolidation
+36 months,A,OWN,Not Verified,Fully Paid,debt_consolidation
+36 months,C,OWN,Not Verified,Fully Paid,home_improvement
+36 months,B,RENT,Not Verified,Fully Paid,credit_card
+36 months,B,OWN,Verified,Fully Paid,credit_card
+60 months,E,MORTGAGE,Verified,Current,debt_consolidation
